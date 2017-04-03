@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-$ npm install canvas-nw-build
+$ npm install node-canvas-nw-build
 ```
 
 ## Example
