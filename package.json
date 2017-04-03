@@ -1,5 +1,5 @@
 {
-  "name": "canvas",
+  "name": "node-canvas-nw-build",
   "description": "Canvas graphics API backed by Cairo. NW.js build for windows",
   "version": "1.6.0",
   "author": "TJ Holowaychuk <tj@learnboost.com>",
@@ -9,7 +9,7 @@
     "Juriy Zaytsev <kangax@gmail.com>"
   ],
   "keywords": [
-    "canvas",
+    "node-canvas-nw-build",
     "graphic",
     "graphics",
     "pixman",
@@ -18,8 +18,8 @@
     "images",
     "pdf"
   ],
-  "homepage": "https://github.com/Automattic/node-canvas",
-  "repository": "git://github.com/Automattic/node-canvas.git",
+  "homepage": "https://github.com/Slauta/node-canvas-nw-build",
+  "repository": "git://github.com/Automattic/node-canvas-nw-build.git",
   "scripts": {},
   "dependencies": {
     "nan": "^2.4.0",
