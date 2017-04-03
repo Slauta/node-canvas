@@ -3,3 +3,5 @@ benchmarks
 examples
 support
 test
+old_binding.gyp
+binding.gyp
