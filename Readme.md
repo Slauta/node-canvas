@@ -17,7 +17,7 @@ $ npm install canvas-nw-build
 ## Example
 
 ```javascript
-var Canvas = require('canvas')
+var Canvas = require('canvas-nw-build')
   , Image = Canvas.Image
   , canvas = new Canvas(200, 200)
   , ctx = canvas.getContext('2d');
