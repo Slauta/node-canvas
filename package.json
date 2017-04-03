@@ -19,7 +19,7 @@
     "pdf"
   ],
   "homepage": "https://github.com/Slauta/node-canvas-nw-build",
-  "repository": "git://github.com/Automattic/node-canvas-nw-build.git",
+  "repository": "git://github.com/Slauta/node-canvas-nw-build.git",
   "scripts": {},
   "dependencies": {
     "nan": "^2.4.0",
