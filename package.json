@@ -1,7 +1,7 @@
 {
   "name": "node-canvas-nw-build",
   "description": "Canvas graphics API backed by Cairo. NW.js build for windows",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "keywords": [
     "node-canvas-nw-build",
     "graphic",
